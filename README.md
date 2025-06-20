@@ -1,4 +1,4 @@
-# ImGui-DX9-Template-C-
+# ImGui-DX9-Template-CPP
 ImGui DirectX 9 Template written in C++
 
 Comes with a working CMakeLists.txt linking the imgui files + backends.
